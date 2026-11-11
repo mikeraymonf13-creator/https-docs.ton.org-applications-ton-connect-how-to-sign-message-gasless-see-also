@@ -1,0 +1,6 @@
+{
+  "name": "borderP45",
+  "description": "Secure user authentication system, build pipeline, and TON testnet security consolidation suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
